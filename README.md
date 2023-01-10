@@ -84,11 +84,13 @@ Output:
 
 Logic symbol & Truthtable
 
+![Logic Gates 1exp](https://user-images.githubusercontent.com/122356434/211522188-6f1175f3-9601-4d5a-89cd-cdda4046cc16.jpeg)
 
 
 RTL realization
 
-
+![RTL exp1](https://user-images.githubusercontent.com/122356434/211522328-951a654c-498f-4d72-b990-14278afed697.jpeg)
 
 Result:
+
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
